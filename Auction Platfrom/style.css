@@ -1,0 +1,36 @@
+/* *{
+    margin: 0;
+    padding: 0; 
+    
+}
+.nav-menu li{
+    font-family:Arial, Helvetica, sans-serif;
+    float: left;
+    list-style: none;
+    padding: 3px 3px;
+}
+.nav-menu{
+
+}
+.nav-button button{
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+
+    padding: 3px 3px;
+}
+   */
+   .navbar {
+    background-color:antiquewhite;
+   }
+   .navbar ul{
+    overflow: auto;
+   }
+   .navbar li {
+    float: left;
+    list-style: none;
+    margin: 3px 3px;
+   }
+   .navbar li a {
+    padding: 3px 3px;
+    text-decoration: none;
+   }
